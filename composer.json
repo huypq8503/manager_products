@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phroute/phroute": "^2.2",
+        "illuminate/events": "^10.14",
+        "eftec/bladeone": "^4.9"
+    }
+}
